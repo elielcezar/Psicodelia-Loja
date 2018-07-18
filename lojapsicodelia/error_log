@@ -1,0 +1,16 @@
+[20-Mar-2018 04:55:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/psico981/loja.psicodelia.org/wp-content/themes/lojapsicodelia/header.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/psico981/loja.psicodelia.org/wp-content/themes/lojapsicodelia/header.php on line 21
+[25-Mar-2018 03:14:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/psico981/loja.psicodelia.org/wp-content/themes/lojapsicodelia/header.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/psico981/loja.psicodelia.org/wp-content/themes/lojapsicodelia/header.php on line 21
+[25-Mar-2018 20:45:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/psico981/loja.psicodelia.org/wp-content/themes/lojapsicodelia/header.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/psico981/loja.psicodelia.org/wp-content/themes/lojapsicodelia/header.php on line 21
+[27-Mar-2018 05:39:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/psico981/loja.psicodelia.org/wp-content/themes/lojapsicodelia/header.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/psico981/loja.psicodelia.org/wp-content/themes/lojapsicodelia/header.php on line 21
