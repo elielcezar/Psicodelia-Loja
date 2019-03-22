@@ -10,16 +10,10 @@ Template Name: Homepage Custom
 
 <?php get_header(); ?>
 
-<!-- About Section -->
-<section id="cta">
 
-                <?php
-                  echo do_shortcode('[products]');
-                ?>
-
-
-</section>
-
+<?php
+echo do_shortcode('[products]');
+?>
 
 
 
