@@ -12,7 +12,7 @@ Template Name: Homepage Custom
 
 
 <?php
-echo do_shortcode('[products]');
+echo do_shortcode('[products orderby="rand" order="rand" category="camisetas"]');
 ?>
 
 
